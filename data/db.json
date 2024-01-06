@@ -41,6 +41,12 @@
       "title": "Food Tester",
       "salary": 30000,
       "location": "London, UK"
+    },
+    {
+      "id": 8,
+      "title": "Full-Stack Developer",
+      "salary": 60000,
+      "location": "Mumbai India"
     }
   ]
 }
